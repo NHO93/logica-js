@@ -29,4 +29,3 @@ if (tentativas > 1) {
 } else {
     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa.`);
 }
-    break;
